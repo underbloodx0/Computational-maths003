@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0c59b0e-ea30-4233-9546-8b43de93894a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Computational-maths003.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Computational-maths003.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ZKMcIZjRX5qCu6WRAYA9tSI2C4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,6 +66,20 @@
       <option name="presentableId" value="Default" />
       <updated>1702166395580</updated>
       <workItem from="1702166409563" duration="3213000" />
+      <workItem from="1702317361404" duration="3226000" />
+      <workItem from="1702409138268" duration="7334000" />
+      <workItem from="1702490836785" duration="3825000" />
+      <workItem from="1702508919321" duration="870000" />
+      <workItem from="1702512556595" duration="7929000" />
+      <workItem from="1702611920053" duration="2517000" />
+      <workItem from="1702655531667" duration="8683000" />
+      <workItem from="1702751755065" duration="29900000" />
+      <workItem from="1703007250268" duration="6949000" />
+      <workItem from="1703050594934" duration="763000" />
+      <workItem from="1703051577054" duration="1372000" />
+      <workItem from="1703086059076" duration="3371000" />
+      <workItem from="1703189908490" duration="8805000" />
+      <workItem from="1703358425745" duration="2687000" />
     </task>
     <servers />
   </component>
