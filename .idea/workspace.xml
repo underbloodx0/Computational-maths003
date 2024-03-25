@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0c59b0e-ea30-4233-9546-8b43de93894a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cosal-001.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Computational-maths005.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Computational-maths005.ipynb" afterDir="false" />
     </list>
@@ -41,6 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/miguel/Documents/Pycharm/Practices/test003/Computational-maths003&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,6 +104,9 @@
       <workItem from="1708049835895" duration="4585000" />
       <workItem from="1708409690609" duration="2417000" />
       <workItem from="1708658187246" duration="371000" />
+      <workItem from="1709865490100" duration="3596000" />
+      <workItem from="1710687819762" duration="652000" />
+      <workItem from="1711296199593" duration="17810000" />
     </task>
     <servers />
   </component>
