@@ -1,4 +1,11 @@
+import openpyxl
 import math
+
+excel_file = '/home/miguel/Documents/Excel/input.xlsx'
+
+workbook = openpyxl.load_workbook(excel_file)
+
+worksheet = workbook.active
 def display_menu():
     print("Menu:")
     print("Opcion 1: Solicitud con medidas iguales")
@@ -86,6 +93,14 @@ def main():
             print("Gramaje por peso entre area nueva: ", gme, "g/cm2")
             print("Densidad de papel por gramaje entre calibre: ", dsad, "g/cm3")
             print("Desperdicio de papel por recortes: ", desp, "kg")
+            datos = 1
+            [espr],[mL_2], [int(uod)], [int(uoda)], [vol], [uw_2],[gme],[dsad],[desp]
+            for fila, datos_fila in enumerate(datos, start=1):
+                for columna, valor in enumerate(datos_fila, start=1):
+                    celda = worksheet.cell(row=fila, column=columna)
+                    celda.value = valor
+
+            workbook.save(excel_file)
 
 #***************************************************************************************************************
 
